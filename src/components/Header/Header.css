@@ -21,12 +21,12 @@
 
 .header-contents h2{
     font-weight: 500;
-    color: orange;
+    color: orangeyellow;
     font-size: max(4.5vw, 22px);
 }
 
 .header-contents p{
-    color: orange;
+    color: #0f0f0f;
     font-size: 1vw;
 }
 
